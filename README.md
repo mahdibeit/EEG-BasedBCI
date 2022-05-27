@@ -1,4 +1,4 @@
-# # EEG-BasedBCI
+# # EEG-Based Brain Computer Interface
 Spatio-temporal Representation Learning for EEG-based Brain-Computer Interfaces. In this project, we utilize Pytorch to build an end-to-end classification pipeline for Motor Imagery (MI) tasks using cross-subject data. 
 ![Pipeline](/images/Pipeline.jpg)
 
